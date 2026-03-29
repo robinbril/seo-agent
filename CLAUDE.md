@@ -70,6 +70,54 @@ Run full SEO audit
 ```
 Voert alles uit: keyword gaps → competitor analyse → ranking report → aanbevelingen
 
+## Backlink & Citation Commands
+
+/seo backlinks <site>         - Vind backlink kansen voor site
+/seo outreach <site> <target> - Genereer outreach content
+/seo citations <site>         - Vind lokale directory kansen
+/seo pipeline <site>          - Volledige pipeline: keywords → content → backlinks
+
+### 🔗 Backlink Kansen Vinden
+```
+Find backlink opportunities for boomgaard
+```
+Wat je doet:
+1. Lees `config.json` voor domain + niche
+2. Run `python scripts/backlink_finder.py --site <domain> --niche "<niche>" --limit 20`
+3. Analyseer output JSON - welke kansen zijn het meest waardevol?
+4. Sla resultaten op naar `briefs/backlinks-YYYY-MM-DD.json`
+
+### ✍️ Outreach Content Genereren
+```
+Generate outreach for boomgaard targeting vastgoedpro.nl
+```
+Wat je doet:
+1. Run `python scripts/outreach_generator.py --site <site> --target-url <url> --type guest-post`
+2. Output bevat: gastblog artikel + outreach email
+3. Opgeslagen in `sites/<site>/briefs/outreach-<domain>-YYYY-MM-DD.md`
+
+### 📍 Lokale Citations Bouwen
+```
+Find citation opportunities for boomgaard in Uithoorn
+```
+Wat je doet:
+1. Run `python scripts/citation_builder.py --site boomgaard --city Uithoorn`
+2. Output: lijst directories + NAP data template + actieplan
+3. Opgeslagen in `briefs/citations-<stad>-YYYY-MM-DD.md`
+
+### 🚀 Volledige SEO Pipeline
+```
+Run full SEO pipeline for boomgaard
+```
+Voert alles uit in volgorde:
+1. Keyword gaps analyse
+2. Content genereren voor top-3 kansen
+3. Backlink kansen vinden
+4. Citation lijst genereren
+5. Samenvatting rapport schrijven
+
+---
+
 ## Workflow Tips
 - Begin altijd met `config.json` controleren
 - Brand voice is heilig - altijd `brand.md` lezen voor content
