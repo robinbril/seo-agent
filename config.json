@@ -2,25 +2,213 @@
   "domain": "boomgaard-site.vercel.app",
   "brand_name": "Boomgaard&Munnik",
   "language": "nl",
-  "target_market": "Nederland - Uithoorn regio",
+  "target_market": "Nederland - Uithoorn en Amstelland regio (Amstelveen, Aalsmeer, Haarlemmermeer, Abcoude, De Ronde Venen)",
   "competitors": [
-    "financiering-regelen.nl",
-    "mogelijk.nl",
-    "financieren.nl",
-    "fortus.nl",
-    "nlinvesteert.nl"
+    {
+      "domain": "mogelijk.nl",
+      "type": "nationaal",
+      "focus": "zakelijke hypotheek, beleggingspanden, investeerders platform",
+      "strength": "hoog"
+    },
+    {
+      "domain": "financieren.nl",
+      "type": "nationaal",
+      "focus": "zakelijk vastgoed, belegging, projectfinanciering, crowdfunding",
+      "strength": "middel"
+    },
+    {
+      "domain": "fortus.nl",
+      "type": "nationaal",
+      "focus": "kortlopende overbruggingsfinanciering, projectontwikkeling, obligatiefonds",
+      "strength": "hoog"
+    },
+    {
+      "domain": "financiering-regelen.nl",
+      "type": "nationaal",
+      "focus": "vastgoedfinanciering via alle banken en geldverstrekkers",
+      "strength": "middel"
+    },
+    {
+      "domain": "nlinvesteert.nl",
+      "type": "nationaal",
+      "focus": "commercieel vastgoed, zorgvastgoed, agrarisch, herfinanciering",
+      "strength": "middel"
+    },
+    {
+      "domain": "zakelijkefinancieringspecialist.nl",
+      "type": "nationaal",
+      "focus": "zakelijk vastgoed, bedrijfspand, zakelijke hypotheek",
+      "strength": "middel"
+    },
+    {
+      "domain": "investeerders.nl",
+      "type": "nationaal",
+      "focus": "residentieel en commercieel vastgoed, verhuur, RNHB",
+      "strength": "middel"
+    },
+    {
+      "domain": "pearlcapital.nl",
+      "type": "nationaal",
+      "focus": "vastgoed financieren zonder bank, zakelijk hypothekenfonds",
+      "strength": "laag"
+    },
+    {
+      "domain": "build-finance.com",
+      "type": "nationaal",
+      "focus": "uitponden, beleggingspanden, actieve beleggersoptie",
+      "strength": "middel"
+    },
+    {
+      "domain": "vrijheidvastgoed.nl",
+      "type": "content/blog",
+      "focus": "zakelijk vastgoed financieren blog, bedrijfspand",
+      "strength": "laag"
+    },
+    {
+      "domain": "rabobank.nl",
+      "type": "grootbank",
+      "focus": "zakelijke hypotheek, bedrijfspand, onroerend goed",
+      "strength": "hoog"
+    },
+    {
+      "domain": "abnamro.nl",
+      "type": "grootbank",
+      "focus": "zakelijke hypotheek, New10 fintech, online aanvragen",
+      "strength": "hoog"
+    }
   ],
   "target_keywords": [
-    "zakelijk vastgoed financieren",
-    "zakelijke hypotheek",
-    "vastgoedfinanciering broker",
-    "commercieel vastgoed financiering",
-    "vastgoed financieren zonder bank",
-    "zakelijk vastgoed Uithoorn",
-    "onafhankelijk vastgoedfinancieringsadvies",
-    "zakelijk pand financieren",
-    "bedrijfspand financieren",
-    "vastgoedfinancieringsadvies Nederland"
+    {
+      "keyword": "zakelijk vastgoed financieren Uithoorn",
+      "priority": 1,
+      "competition": "laag",
+      "type": "lokaal"
+    },
+    {
+      "keyword": "zakelijk vastgoed financieren Amstelveen",
+      "priority": 2,
+      "competition": "laag",
+      "type": "lokaal"
+    },
+    {
+      "keyword": "zakelijk vastgoed financieren Aalsmeer",
+      "priority": 3,
+      "competition": "laag",
+      "type": "lokaal"
+    },
+    {
+      "keyword": "zakelijke hypotheek Amstelland",
+      "priority": 4,
+      "competition": "laag",
+      "type": "lokaal"
+    },
+    {
+      "keyword": "zakelijk vastgoed financieren Haarlemmermeer",
+      "priority": 5,
+      "competition": "laag",
+      "type": "lokaal"
+    },
+    {
+      "keyword": "zakelijk vastgoed financieren",
+      "priority": 6,
+      "competition": "hoog",
+      "type": "nationaal"
+    },
+    {
+      "keyword": "bedrijfspand financieren",
+      "priority": 7,
+      "competition": "middel",
+      "type": "nationaal"
+    },
+    {
+      "keyword": "vastgoed financieren zonder bank",
+      "priority": 8,
+      "competition": "middel",
+      "type": "nationaal"
+    },
+    {
+      "keyword": "herfinanciering zakelijk vastgoed",
+      "priority": 9,
+      "competition": "laag",
+      "type": "nationaal"
+    },
+    {
+      "keyword": "second opinion hypotheek zakelijk",
+      "priority": 10,
+      "competition": "laag",
+      "type": "niche"
+    },
+    {
+      "keyword": "zakelijke hypotheek aanvragen",
+      "priority": 11,
+      "competition": "hoog",
+      "type": "nationaal"
+    },
+    {
+      "keyword": "zakelijke hypotheek berekenen",
+      "priority": 12,
+      "competition": "hoog",
+      "type": "nationaal"
+    },
+    {
+      "keyword": "commercieel vastgoed financiering",
+      "priority": 13,
+      "competition": "middel",
+      "type": "nationaal"
+    },
+    {
+      "keyword": "vastgoedbelegger financiering",
+      "priority": 14,
+      "competition": "middel",
+      "type": "nationaal"
+    },
+    {
+      "keyword": "overbruggingskrediet zakelijk vastgoed",
+      "priority": 15,
+      "competition": "middel",
+      "type": "nationaal"
+    },
+    {
+      "keyword": "projectontwikkeling financiering",
+      "priority": 16,
+      "competition": "middel",
+      "type": "nationaal"
+    },
+    {
+      "keyword": "woningen verhuur financieren",
+      "priority": 17,
+      "competition": "middel",
+      "type": "nationaal"
+    },
+    {
+      "keyword": "onafhankelijk vastgoedfinancieringsadvies",
+      "priority": 18,
+      "competition": "laag",
+      "type": "niche"
+    },
+    {
+      "keyword": "zakelijk pand financieren",
+      "priority": 19,
+      "competition": "middel",
+      "type": "nationaal"
+    },
+    {
+      "keyword": "vastgoedfinanciering broker Nederland",
+      "priority": 20,
+      "competition": "laag",
+      "type": "niche"
+    }
+  ],
+  "regions": [
+    "Uithoorn",
+    "Amstelveen",
+    "Aalsmeer",
+    "Haarlemmermeer",
+    "Amstelland",
+    "De Ronde Venen",
+    "Abcoude",
+    "Amsterdam Zuidoost",
+    "Alphen aan den Rijn"
   ],
   "serp_location": "nl",
   "weekly_tracking_day": "monday",
