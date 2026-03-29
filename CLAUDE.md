@@ -75,3 +75,40 @@ Voert alles uit: keyword gaps → competitor analyse → ranking report → aanb
 - Brand voice is heilig - altijd `brand.md` lezen voor content
 - Rankings bijhouden: run weekly tracker elke maandag
 - Content brief schrijven vóór het artikel
+
+---
+
+## Multi-site configuratie
+
+Sites beschikbaar in `sites/` directory. Specificeer welke site bij commando's:
+- `Run keyword gap analysis for gardano`
+- `Write article for revive-woman about [topic]`
+- `Track rankings for auto-boomgaard`
+- `Analyze competitor for robin-bril`
+- Zonder specificatie = gebruik hoofd config.json (Boomgaard&Munnik)
+
+### Beschikbare sites
+
+| Site | Directory | Domein | Niche |
+|------|-----------|--------|-------|
+| Boomgaard&Munnik | *(root)* | boomgaardfinancieel.nl | Zakelijk vastgoed financiering |
+| Auto Boomgaard | sites/auto-boomgaard | autoboomgaard.nl | Premium occasion dealer Audi & Mercedes |
+| Robin Bril AI | sites/robin-bril | robinbril.nl | AI agents / digitale medewerkers |
+| REVIVE | sites/revive | revive-skin.nl | GHK-Cu skincare serum |
+| Underground Royalty | sites/underground-royalty | rickpeper.nl | Kickboxen 1-op-1 training Leiden |
+| Gardano | sites/gardano | christiaanwarner.nl | Brand & Creative Strategist |
+
+### Per site beschikbare bestanden
+- `config.json` - domain, competitors, keywords
+- `brand.md` - brand voice, diensten, USPs
+- `keyword-research.md` - uitgebreid keyword onderzoek + SEO rapport
+- `content/` - gegenereerde artikelen
+- `briefs/` - content briefs en analyses
+- `rankings/` - ranking tracking
+
+### Hoe een site te gebruiken
+Wanneer je voor een specifieke site werkt:
+1. Lees `sites/[naam]/config.json`
+2. Lees `sites/[naam]/brand.md`
+3. Raadpleeg `sites/[naam]/keyword-research.md` voor keyword context
+4. Schrijf content naar `sites/[naam]/content/[slug].md`

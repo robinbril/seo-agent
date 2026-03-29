@@ -1,0 +1,54 @@
+{
+  "domain": "robinbril.nl",
+  "brand_name": "Robin Bril - Digitale Medewerkers",
+  "language": "nl",
+  "target_market": "Nederlandse MKB bedrijven en scale-ups die processen willen automatiseren met AI agents",
+  "competitors": [
+    {
+      "domain": "syntiq.nl",
+      "type": "nationaal",
+      "focus": "AI agents maatwerk voor bedrijven, workshops en implementatie",
+      "strength": "middel"
+    },
+    {
+      "domain": "softark.nl",
+      "type": "nationaal",
+      "focus": "AI agents laten maken, maatwerk AI oplossingen",
+      "strength": "middel"
+    },
+    {
+      "domain": "ai-agents.nl",
+      "type": "nationaal",
+      "focus": "AI-agents MKB bedrijven, tijdsbesparing automatisering",
+      "strength": "middel"
+    },
+    {
+      "domain": "launchlab.ai",
+      "type": "nationaal",
+      "focus": "AI oplossingen bedrijven, implementatie trajecten",
+      "strength": "laag"
+    }
+  ],
+  "target_keywords": [
+    { "keyword": "AI agent laten bouwen Nederland", "priority": 1, "competition": "middel", "type": "primary" },
+    { "keyword": "digitale medewerker AI bedrijf", "priority": 1, "competition": "laag", "type": "primary" },
+    { "keyword": "AI automatisering MKB", "priority": 2, "competition": "middel", "type": "primary" },
+    { "keyword": "klantenservice agent AI", "priority": 2, "competition": "middel", "type": "product" },
+    { "keyword": "AI agent freelancer Amsterdam", "priority": 2, "competition": "laag", "type": "lokaal" },
+    { "keyword": "sales automatisering AI agent", "priority": 3, "competition": "middel", "type": "product" },
+    { "keyword": "RAG kennisbank AI bedrijf", "priority": 3, "competition": "laag", "type": "technisch" },
+    { "keyword": "AI processen automatiseren kosten", "priority": 3, "competition": "laag", "type": "intent" },
+    { "keyword": "facturatie automatiseren AI", "priority": 4, "competition": "laag", "type": "product" },
+    { "keyword": "order processing agent Shopify Exact", "priority": 4, "competition": "laag", "type": "product" },
+    { "keyword": "multi-agent systeem implementeren", "priority": 4, "competition": "laag", "type": "technisch" },
+    { "keyword": "hoe werkt een AI agent", "priority": 5, "competition": "laag", "type": "educatief" },
+    { "keyword": "AI agent vs chatbot verschil", "priority": 5, "competition": "laag", "type": "educatief" },
+    { "keyword": "AI implementatie kosten MKB", "priority": 5, "competition": "laag", "type": "intent" },
+    { "keyword": "beste AI automatisering bedrijf 2025", "priority": 5, "competition": "middel", "type": "educatief" }
+  ],
+  "serp_location": "nl",
+  "weekly_tracking_day": "monday",
+  "content_output_dir": "content/",
+  "briefs_output_dir": "briefs/",
+  "rankings_dir": "rankings/"
+}

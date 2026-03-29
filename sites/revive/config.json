@@ -1,0 +1,54 @@
+{
+  "domain": "revive-woman.vercel.app",
+  "brand_name": "REVIVE",
+  "language": "nl",
+  "target_market": "Nederlandse vrouwen 28-55 jaar geïnteresseerd in evidence-based huidverzorging en anti-aging",
+  "competitors": [
+    {
+      "domain": "theordinary.com",
+      "type": "internationaal",
+      "focus": "Evidence-based huidverzorging lage prijs, GHK-Cu buffet serum, groot assortiment",
+      "strength": "hoog"
+    },
+    {
+      "domain": "ordinaire.nl",
+      "type": "nationaal",
+      "focus": "Nederlands merk, wetenschappelijk onderbouwde huidverzorging, peptide serums",
+      "strength": "hoog"
+    },
+    {
+      "domain": "primalpeptides.nl",
+      "type": "nationaal",
+      "focus": "GHK-Cu research compound, peptides kopen Nederland",
+      "strength": "laag"
+    },
+    {
+      "domain": "paulaschoice.nl",
+      "type": "internationaal",
+      "focus": "Evidence-based huidverzorging, peptide moisturizers, educatieve content",
+      "strength": "hoog"
+    }
+  ],
+  "target_keywords": [
+    { "keyword": "koperpeptide serum Nederland", "priority": 1, "competition": "laag", "type": "primary" },
+    { "keyword": "GHK-Cu serum kopen", "priority": 1, "competition": "laag", "type": "primary" },
+    { "keyword": "koperpeptide anti-aging huid", "priority": 2, "competition": "laag", "type": "primary" },
+    { "keyword": "peptide serum rimpels verminderen", "priority": 2, "competition": "middel", "type": "primary" },
+    { "keyword": "GHK-Cu werking huid", "priority": 2, "competition": "laag", "type": "educatief" },
+    { "keyword": "beste anti-aging serum Nederland 2025", "priority": 3, "competition": "hoog", "type": "vergelijking" },
+    { "keyword": "koperpeptide serum ervaringen", "priority": 3, "competition": "laag", "type": "sociaal bewijs" },
+    { "keyword": "huidserum collageen aanmaken", "priority": 3, "competition": "middel", "type": "educatief" },
+    { "keyword": "Matrixyl 3000 serum kopen", "priority": 4, "competition": "middel", "type": "product" },
+    { "keyword": "serum zonder parfum gevoelige huid", "priority": 4, "competition": "middel", "type": "product" },
+    { "keyword": "GHK-Cu vs retinol huid", "priority": 4, "competition": "laag", "type": "vergelijking" },
+    { "keyword": "koperpeptide serum hoe gebruiken", "priority": 5, "competition": "laag", "type": "educatief" },
+    { "keyword": "huidveroudering tegengaan peptide", "priority": 5, "competition": "middel", "type": "educatief" },
+    { "keyword": "evidence based huidverzorging serum", "priority": 5, "competition": "laag", "type": "niche" },
+    { "keyword": "Made in Netherlands serum huid", "priority": 5, "competition": "laag", "type": "niche" }
+  ],
+  "serp_location": "nl",
+  "weekly_tracking_day": "monday",
+  "content_output_dir": "content/",
+  "briefs_output_dir": "briefs/",
+  "rankings_dir": "rankings/"
+}

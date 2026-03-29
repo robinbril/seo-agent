@@ -1,0 +1,61 @@
+{
+  "domain": "autoboomgaard.nl",
+  "brand_name": "Auto Boomgaard",
+  "language": "nl",
+  "target_market": "Uithoorn en Amstelland regio (Amstelveen, Aalsmeer, Haarlemmermeer, Abcoude)",
+  "competitors": [
+    {
+      "domain": "maasdekoning.nl",
+      "type": "regionaal",
+      "focus": "Officiële Audi & VW dealer Uithoorn/Amstelveen, nieuw + occasion",
+      "strength": "hoog"
+    },
+    {
+      "domain": "jcbaarse.nl",
+      "type": "regionaal",
+      "focus": "Audi specialist Aalsmeer, ook BMW en Porsche, werkplaats",
+      "strength": "middel"
+    },
+    {
+      "domain": "marktplaats.nl",
+      "type": "nationaal platform",
+      "focus": "Occasions advertentieplatform, enorme schaal",
+      "strength": "hoog"
+    },
+    {
+      "domain": "autotrader.nl",
+      "type": "nationaal platform",
+      "focus": "Occasion vergelijkingsplatform",
+      "strength": "hoog"
+    },
+    {
+      "domain": "autoscout24.nl",
+      "type": "nationaal platform",
+      "focus": "Europees occasion platform",
+      "strength": "hoog"
+    }
+  ],
+  "target_keywords": [
+    { "keyword": "Audi occasion Uithoorn", "priority": 1, "competition": "laag", "type": "lokaal" },
+    { "keyword": "Mercedes occasion Uithoorn", "priority": 1, "competition": "laag", "type": "lokaal" },
+    { "keyword": "occasion dealer Uithoorn", "priority": 2, "competition": "laag", "type": "lokaal" },
+    { "keyword": "Audi occasion Amstelveen", "priority": 2, "competition": "middel", "type": "lokaal" },
+    { "keyword": "Mercedes occasion Amstelveen", "priority": 2, "competition": "middel", "type": "lokaal" },
+    { "keyword": "premium occasion Amstelland", "priority": 3, "competition": "laag", "type": "lokaal" },
+    { "keyword": "Audi A3 occasion Nederland", "priority": 4, "competition": "hoog", "type": "nationaal" },
+    { "keyword": "Mercedes hybride occasion kopen", "priority": 4, "competition": "middel", "type": "nationaal" },
+    { "keyword": "Audi occasion BOVAG garantie", "priority": 5, "competition": "middel", "type": "nationaal" },
+    { "keyword": "occasion dealer Aalsmeer", "priority": 3, "competition": "laag", "type": "lokaal" },
+    { "keyword": "occasion dealer Haarlemmermeer", "priority": 3, "competition": "laag", "type": "lokaal" },
+    { "keyword": "occasion dealer Amsterdam Zuidoost", "priority": 4, "competition": "middel", "type": "lokaal" },
+    { "keyword": "Audi A3 TFSI-e occasion", "priority": 5, "competition": "middel", "type": "model" },
+    { "keyword": "Mercedes A-klasse occasion kopen", "priority": 5, "competition": "middel", "type": "model" },
+    { "keyword": "familiebedrijf auto dealer Netherlands", "priority": 6, "competition": "laag", "type": "niche" }
+  ],
+  "regions": ["Uithoorn", "Amstelveen", "Aalsmeer", "Haarlemmermeer", "Abcoude", "De Ronde Venen", "Amsterdam Zuidoost"],
+  "serp_location": "nl",
+  "weekly_tracking_day": "monday",
+  "content_output_dir": "content/",
+  "briefs_output_dir": "briefs/",
+  "rankings_dir": "rankings/"
+}

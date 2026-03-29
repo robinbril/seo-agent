@@ -1,0 +1,55 @@
+{
+  "domain": "rickpeper.nl",
+  "brand_name": "Rick Peper - Professional Kickboxer",
+  "language": "nl",
+  "target_market": "Sportieve mensen in Leiden en omgeving die 1-op-1 kickboks/muay thai training zoeken bij een professionele vechter",
+  "competitors": [
+    {
+      "domain": "francispimienta.nl",
+      "type": "lokaal",
+      "focus": "Personal training en kickbokslessen Leiden, professionele trainer",
+      "strength": "middel"
+    },
+    {
+      "domain": "boksleiden.nl",
+      "type": "lokaal",
+      "focus": "Fitness, boksen en kickboksen groepslessen Leiden",
+      "strength": "middel"
+    },
+    {
+      "domain": "teamatlas.nl",
+      "type": "lokaal",
+      "focus": "Kickboksen, MMA, boksen Leiden - Rick's eigen gym",
+      "strength": "hoog"
+    },
+    {
+      "domain": "topteamleiden.nl",
+      "type": "lokaal",
+      "focus": "Kickbox coaching Leiden, conditie en technieken",
+      "strength": "laag"
+    }
+  ],
+  "target_keywords": [
+    { "keyword": "kickboxen persoonlijke training Leiden", "priority": 1, "competition": "laag", "type": "lokaal" },
+    { "keyword": "1 op 1 kickboxen Leiden", "priority": 1, "competition": "laag", "type": "lokaal" },
+    { "keyword": "muay thai training Leiden", "priority": 2, "competition": "laag", "type": "lokaal" },
+    { "keyword": "kickboks trainer aan huis Leiden", "priority": 2, "competition": "laag", "type": "lokaal" },
+    { "keyword": "professionele kickboxer personal trainer", "priority": 2, "competition": "laag", "type": "niche" },
+    { "keyword": "boksen persoonlijke training Leiden", "priority": 3, "competition": "laag", "type": "lokaal" },
+    { "keyword": "kickboxen Den Haag regio", "priority": 3, "competition": "middel", "type": "lokaal" },
+    { "keyword": "muay thai lessen beginners Leiden", "priority": 3, "competition": "laag", "type": "lokaal" },
+    { "keyword": "Team Atlas Leiden training", "priority": 4, "competition": "laag", "type": "brand" },
+    { "keyword": "Dutch Style kickboxen leren", "priority": 4, "competition": "laag", "type": "educatief" },
+    { "keyword": "kickboxen zelfverdediging Rotterdam Den Haag", "priority": 4, "competition": "middel", "type": "lokaal" },
+    { "keyword": "HERESH kickboxing evenement", "priority": 5, "competition": "laag", "type": "events" },
+    { "keyword": "kickboxer inhuren evenement", "priority": 5, "competition": "laag", "type": "zakelijk" },
+    { "keyword": "vechtsporten conditie verbeteren", "priority": 5, "competition": "middel", "type": "educatief" },
+    { "keyword": "MMA training lichtgewicht Leiden", "priority": 5, "competition": "laag", "type": "lokaal" }
+  ],
+  "regions": ["Leiden", "Den Haag", "Delft", "Zoetermeer", "Alphen aan den Rijn", "Katwijk"],
+  "serp_location": "nl",
+  "weekly_tracking_day": "monday",
+  "content_output_dir": "content/",
+  "briefs_output_dir": "briefs/",
+  "rankings_dir": "rankings/"
+}

@@ -1,0 +1,48 @@
+{
+  "domain": "gardano.vercel.app",
+  "brand_name": "Christiaan Warner - Brand & Creative Strategist",
+  "language": "nl",
+  "target_market": "Scale-ups, internationale merken en Fortune 500 bedrijven die een freelance brand/creative strategist zoeken met sonic branding expertise",
+  "competitors": [
+    {
+      "domain": "tambr.nl",
+      "type": "nationaal",
+      "focus": "Sonic branding bureau Amsterdam, merken audio-identiteit, soundlogo's",
+      "strength": "hoog"
+    },
+    {
+      "domain": "amp.amsterdam",
+      "type": "nationaal",
+      "focus": "Sonic branding company Amsterdam, muziekproductie en audio post-production",
+      "strength": "hoog"
+    },
+    {
+      "domain": "thndr.studio",
+      "type": "nationaal",
+      "focus": "Sonic branding en music agency Amsterdam",
+      "strength": "middel"
+    }
+  ],
+  "target_keywords": [
+    { "keyword": "freelance brand strategist Amsterdam", "priority": 1, "competition": "middel", "type": "lokaal" },
+    { "keyword": "sonic branding freelancer Nederland", "priority": 1, "competition": "laag", "type": "niche" },
+    { "keyword": "merkstrategie freelancer inhuren", "priority": 2, "competition": "laag", "type": "primary" },
+    { "keyword": "creative strategist freelance Amsterdam", "priority": 2, "competition": "laag", "type": "lokaal" },
+    { "keyword": "brand strategie scale-up Nederland", "priority": 2, "competition": "laag", "type": "primary" },
+    { "keyword": "sonic branding wat is het", "priority": 3, "competition": "laag", "type": "educatief" },
+    { "keyword": "merkidentiteit laten ontwikkelen kosten", "priority": 3, "competition": "middel", "type": "intent" },
+    { "keyword": "cross-channel campagne strategie", "priority": 3, "competition": "laag", "type": "product" },
+    { "keyword": "brand strategie Jägermeister Porsche niveau", "priority": 4, "competition": "laag", "type": "sociaal bewijs" },
+    { "keyword": "creatieve strategie international brand", "priority": 4, "competition": "laag", "type": "primary" },
+    { "keyword": "merkherkenning verhogen strategie", "priority": 4, "competition": "laag", "type": "intent" },
+    { "keyword": "campagne strategie budget 500000 euro", "priority": 5, "competition": "laag", "type": "niche" },
+    { "keyword": "freelance creative director Netherlands", "priority": 5, "competition": "middel", "type": "eng" },
+    { "keyword": "audio branding merk geluid", "priority": 5, "competition": "laag", "type": "educatief" },
+    { "keyword": "brand development startup scale-up", "priority": 5, "competition": "middel", "type": "primary" }
+  ],
+  "serp_location": "nl",
+  "weekly_tracking_day": "monday",
+  "content_output_dir": "content/",
+  "briefs_output_dir": "briefs/",
+  "rankings_dir": "rankings/"
+}
