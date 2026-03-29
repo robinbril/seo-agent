@@ -1,0 +1,30 @@
+{
+  "domain": "boomgaard-site.vercel.app",
+  "brand_name": "Boomgaard&Munnik",
+  "language": "nl",
+  "target_market": "Nederland - Uithoorn regio",
+  "competitors": [
+    "financiering-regelen.nl",
+    "mogelijk.nl",
+    "financieren.nl",
+    "fortus.nl",
+    "nlinvesteert.nl"
+  ],
+  "target_keywords": [
+    "zakelijk vastgoed financieren",
+    "zakelijke hypotheek",
+    "vastgoedfinanciering broker",
+    "commercieel vastgoed financiering",
+    "vastgoed financieren zonder bank",
+    "zakelijk vastgoed Uithoorn",
+    "onafhankelijk vastgoedfinancieringsadvies",
+    "zakelijk pand financieren",
+    "bedrijfspand financieren",
+    "vastgoedfinancieringsadvies Nederland"
+  ],
+  "serp_location": "nl",
+  "weekly_tracking_day": "monday",
+  "content_output_dir": "content/",
+  "briefs_output_dir": "briefs/",
+  "rankings_dir": "rankings/"
+}
